@@ -1,7 +1,7 @@
-57.jpg 118,51,846,216,0
-17.jpg 32,70,522,283,0
-82.jpg 938,103,1338,235,0
-1.jpg 155,194,723,573,0
-33.jpg 114,174,603,363,0
-24.jpg 1043,118,1425,366,0
-47.jpg 498,38,1202,200,0
+document-data-extractor/images/57.jpg 118,51,846,216,0
+document-data-extractor/images/17.jpg 32,70,522,283,0
+document-data-extractor/images/82.jpg 938,103,1338,235,0
+document-data-extractor/images/1.jpg 155,194,723,573,0
+document-data-extractor/images/33.jpg 114,174,603,363,0
+document-data-extractor/images/24.jpg 1043,118,1425,366,0
+document-data-extractor/images/47.jpg 498,38,1202,200,0
