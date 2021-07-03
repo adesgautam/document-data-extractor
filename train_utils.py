@@ -6,8 +6,8 @@ from keras.layers import Input, Lambda
 from keras.models import Model
 from keras.optimizers import Adam
 from keras.callbacks import TensorBoard, ModelCheckpoint, ReduceLROnPlateau, EarlyStopping
-from .keras_yolo3.yolo3.model import preprocess_true_boxes, yolo_body, tiny_yolo_body, yolo_loss
-from .keras_yolo3.yolo3.utils import get_random_data
+from keras_yolo3.yolo3.model import preprocess_true_boxes, yolo_body, tiny_yolo_body, yolo_loss
+from keras_yolo3.yolo3.utils import get_random_data
 from PIL import Image
 
 # def get_parent_dir(n=1):
